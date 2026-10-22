@@ -20,11 +20,8 @@ Welcome to my GitHub profile! who loves exploring new technologies and building 
 
 <img src="https://raw.githubusercontent.com/kimmyxpow/kimmyxpow/output/snake.svg" alt="Snake animation" />
 
-###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31yjvauyoi2s5ygdd4tc2oleahly?si=JrhPy4k-SqCch8TUPW3a6g">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yjvauyoi2s5ygdd4tc2oleahly&unique=true"" alt="Spotify recently played"  />
-  </a>
-  <img width="12" />
-</div>
+## GitHub Statistics
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=4trays&show_icons=true&theme=transparent)
+
