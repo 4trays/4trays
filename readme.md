@@ -13,9 +13,12 @@
 
 ---
 
-### 👋 About Me
+<h3 align="center">About Me</h3>
 
-Saya **4trays**, developer yang fokus di scripting, game modification, software security, dan tools untuk developer.
+<p align="center">
+I'm <b>4trays</b>, a developer focused on scripting, game modifications,<br/>
+software security, and building practical developer tools.
+</p>
 
 <div align="center">
 
@@ -27,7 +30,7 @@ Saya **4trays**, developer yang fokus di scripting, game modification, software 
 
 ---
 
-### 🛠️ Tech Stack
+<h3 align="center">Tech Stack</h3>
 
 <div align="center">
 
@@ -37,19 +40,21 @@ Saya **4trays**, developer yang fokus di scripting, game modification, software 
 
 ---
 
-### 🚀 Featured Projects
+<h3 align="center">Featured Projects</h3>
 
-<table>
+<table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/4trays/MonetLoader-txAdmin">MonetLoader txAdmin</a></b><br/>
-      Antarmuka administrasi berbasis WebView untuk MonetLoader.<br/><br/>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/4trays/MonetLoader-txAdmin"><b>MonetLoader txAdmin</b></a>
+      <br/><sub>WebView-based administration interface<br/>for the MonetLoader environment.</sub>
+      <br/><br/>
       <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua"/>
       <img src="https://img.shields.io/badge/WebView-00C853?style=flat-square" alt="WebView"/>
     </td>
-    <td width="50%" valign="top">
-      <b><a href="https://luasecurecode.vercel.app">SecureCode</a></b><br/>
-      Analisis kode Lua, security audit, dan tools untuk developer.<br/><br/>
+    <td width="50%" align="center" valign="top">
+      <a href="https://luasecurecode.vercel.app"><b>SecureCode</b></a>
+      <br/><sub>Lua code analysis, security auditing,<br/>and developer-oriented tooling.</sub>
+      <br/><br/>
       <img src="https://img.shields.io/badge/Security-00C853?style=flat-square&logo=letsencrypt&logoColor=white" alt="Security"/>
       <img src="https://img.shields.io/badge/Web-181717?style=flat-square&logo=vercel" alt="Web"/>
     </td>
@@ -57,19 +62,19 @@ Saya **4trays**, developer yang fokus di scripting, game modification, software 
 </table>
 
 <div align="center">
-<a href="https://github.com/4trays?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+<a href="https://github.com/4trays?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 </div>
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center">GitHub Statistics</h3>
 
 <div align="center">
 
 <img width="49%" src="https://github-stats-extended.vercel.app/api?username=4trays&show_icons=true&theme=transparent&hide_border=true&title_color=00C853&icon_color=00C853&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
 <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=4trays&layout=compact&theme=transparent&hide_border=true&title_color=00C853&text_color=C9D1D9&langs_count=6" alt="Top Languages"/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=4trays&theme=transparent&hide_border=true&ring=00C853&fire=00C853&currStreakLabel=00C853&sideLabels=C9D1D9&dates=8B949E" alt="Streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=4trays&theme=transparent&hide_border=true&ring=00C853&fire=00C853&currStreakLabel=00C853&sideLabels=C9D1D9&dates=8B949E" alt="Contribution Streak"/>
 
 </div>
 
