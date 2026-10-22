@@ -14,37 +14,9 @@
   I'm <strong>4trays</strong>, a developer interested in scripting, game modifications, software security, and building useful developer tools.
 </p><table>
   <tr>
-    <td width="50%" valign="top">Interests
-
-- Lua scripting & automation
-
-- MonetLoader development
-
-- SA-MP Android ecosystem
-
-- Software security & code analysis
-
-- Web development
-  
-    </td>
-  <td width="50%" valign="top">
-
-Currently Exploring
-
-- MonetLoader script development
-
-- WebView-based interfaces
-
-- Lua obfuscation techniques
-
-- Security auditing tools
-
-- API integration & automation
-  
-    </td>
 </tr>
 
-</table>---
+</table>
 
 <!-- ======================= TECHNOLOGIES ======================= --><h2 align="center">Tech Stack & Tools</h2><div align="center">  <h3>Languages</h3>  <img src="https://skillicons.dev/icons?i=lua,js,html,css,python&theme=dark" alt="Programming Languages"/>  <h3>Tools & Platforms</h3>  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,nodejs&theme=dark" alt="Tools and Platforms"/><br/><br/>
 
