@@ -7,8 +7,6 @@
   <a href="https://luasecurecode.vercel.app">
     <img src="https://img.shields.io/badge/SecureCode-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="SecureCode"/>
   </a></div><br/><div align="right">
-  <img src="https://komarev.com/ghpvc/?username=4trays&label=PROFILE+VIEWS&color=00C853&style=flat-square" alt="Profile Views"/>
-</div>---
 
 <!-- ======================= ABOUT ME ======================= --><h2>About Me</h2><p>
   I'm <strong>4trays</strong>, a developer interested in scripting, game modifications, software security, and building useful developer tools.
