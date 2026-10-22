@@ -20,7 +20,7 @@
 
   <img src="https://img.shields.io/badge/MonetLoader-Scripting-00C853?style=flat-square" alt="MonetLoader"/>
   <img src="https://img.shields.io/badge/SA--MP-Android-3C78D8?style=flat-square" alt="SA-MP Android"/>
-  <img src="https://img.shields.io/badge/WebView-Integration-8A2BE2?style=flat-square" alt="WebView"/></div>---
+  <img src="https://img.shields.io/badge/WebView-Integration-8A2BE2?style=flat-square" alt="WebView"/></div>
 
 <!-- ======================= FEATURED PROJECTS ======================= --><h2 align="center">Featured Projects</h2><table>
   <tr>
@@ -53,11 +53,11 @@
   <a href="https://github.com/4trays?tab=repositories">
     <img src="https://img.shields.io/badge/Explore_All_Repositories-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
   </a>
-</div>---
+</div>
 
 <!-- ======================= GITHUB STATISTICS ======================= --><h2 align="center">GitHub Statistics</h2><div align="center">  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=4trays&show_icons=true&theme=transparent&hide_border=true&title_color=00C853&icon_color=00C853&text_color=C9D1D9&rank_icon=github" alt="GitHub Statistics"/>  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=4trays&layout=compact&theme=transparent&hide_border=true&title_color=00C853&text_color=C9D1D9&langs_count=6" alt="Most Used Languages"/><br/><br/>
 
-  <img width="70%" src="https://streak-stats.demolab.com?user=4trays&theme=transparent&hide_border=true&ring=00C853&fire=00C853&currStreakLabel=00C853&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Contribution Streak"/></div>---
+  <img width="70%" src="https://streak-stats.demolab.com?user=4trays&theme=transparent&hide_border=true&ring=00C853&fire=00C853&currStreakLabel=00C853&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Contribution Streak"/></div>
 
 <!-- ======================= CONTRIBUTION GRAPH ======================= --><h2 align="center">Contribution Activity</h2><div align="center">  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4trays&bg_color=0D1117&color=C9D1D9&line=00C853&point=00C853&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph"/></div>---
 
@@ -67,10 +67,9 @@
     <img src="https://img.shields.io/badge/GitHub-4trays-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>  <a href="https://luasecurecode.vercel.app">
     <img src="https://img.shields.io/badge/Website-SecureCode-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-  </a></div>---
+  </a></div>
 
 <!-- ======================= FOOTER ======================= --><div align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101010,50:064E3B,100:00C853&height=120&section=footer" width="100%" alt="Footer"/>  <br/>  <p><em>"First, solve the problem. Then, write the code."</em></p>  <p>
-    <img src="https://img.shields.io/badge/Built_with-curiosity-00C853?style=flat-square" alt="Built with curiosity"/>
   </p><sub>© 2026 4trays · Open source, continuous learning, and experimentation.</sub>
 
 </div>
