@@ -1,5 +1,4 @@
 <!-- ======================= HEADER ======================= --><div align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101010,50:064E3B,100:00C853&height=220&section=header&text=4trays&fontSize=75&fontAlignY=38&animation=fadeIn&fontColor=ffffff&fontFamily=Fira%20Code&desc=Lua%20Developer%20%7C%20Software%20Security&descAlignY=57&descSize=18" width="100%" />  <br/>  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile.;Building+Lua+Scripts+%26+Developer+Tools.;Exploring+Software+Security.;Turning+Ideas+Into+Code." alt="Typing SVG" />
   </a><br/><br/>
 
   <a href="https://github.com/4trays">
