@@ -26,5 +26,3 @@ Welcome to my GitHub profile! who loves exploring new technologies and building 
 ## GitHub Statistics
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=4trays&show_icons=true&theme=transparent)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=4trays&layout=compact&langs_count=6&display_format=percent&theme=dark_github)](https://wakatime.com/@4trays)
