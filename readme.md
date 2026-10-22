@@ -36,7 +36,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=lua,js,html,css,python,git,github,vscode,vercel,nodejs&theme=dark" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=lua,kotlin,js,html,css,python,git,github,vscode,vercel,nodejs&theme=dark&perline=6" alt="Tech Stack" width="320"/>
+
+<img src="https://img.shields.io/badge/Acode-Mobile_Code_Editor-C1121F?style=flat-square&logo=android&logoColor=white" alt="Acode"/>
 
 </div>
 
