@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101010,50:064E3B,100:00C853&height=180&section=header&text=4trays&fontSize=64&fontAlignY=40&animation=fadeIn&fontColor=ffffff&fontFamily=Fira%20Code&desc=Lua%20Developer%20%7C%20Software%20Security&descAlignY=62&descSize=16" width="100%" alt="4trays"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101010,50:064E3B,100:00C853&height=150&section=header&text=4trays&fontSize=56&fontAlignY=38&animation=fadeIn&fontColor=ffffff&fontFamily=Fira%20Code&desc=Lua%20Developer%20%7C%20Software%20Security&descAlignY=60&descSize=15" width="100%" alt="4trays"/>
+
+<a href="https://github.com/4trays"><img src="https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/215787839&w=240&h=240&fit=cover&mask=circle&maxage=7d" width="120" height="120" alt="4trays avatar"/></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=00C853&center=true&vCenter=true&width=420&height=30&lines=Lua+Scripting;MonetLoader+%7C+SA-MP+Android;WebView+Integration;Software+Security" alt="Typing SVG"/>
 
