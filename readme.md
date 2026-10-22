@@ -13,7 +13,7 @@
 
 ---
 
-<h3 align="center">About Me</h3>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=About%20Me&fontSize=26&fontColor=E5383B&fontAlign=50&fontAlignY=50&fontFamily=Fira%20Code" alt="About Me"/></p>
 
 <table align="center">
   <tr>
@@ -32,7 +32,7 @@
 
 ---
 
-<h3 align="center">Tech Stack</h3>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=Tech%20Stack&fontSize=26&fontColor=E5383B&fontAlign=50&fontAlignY=50&fontFamily=Fira%20Code" alt="Tech Stack"/></p>
 
 <div align="center">
 
@@ -42,7 +42,7 @@
 
 ---
 
-<h3 align="center">Featured Projects</h3>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=Featured%20Projects&fontSize=26&fontColor=E5383B&fontAlign=50&fontAlignY=50&fontFamily=Fira%20Code" alt="Featured Projects"/></p>
 
 <table align="center" width="100%">
   <tr>
@@ -79,7 +79,7 @@
 
 ---
 
-<h3 align="center">GitHub Statistics</h3>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=GitHub%20Statistics&fontSize=26&fontColor=E5383B&fontAlign=50&fontAlignY=50&fontFamily=Fira%20Code" alt="GitHub Statistics"/></p>
 
 <div align="center">
 
@@ -92,7 +92,7 @@
 
 ---
 
-<h3 align="center">Connect With Me</h3>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=Connect%20With%20Me&fontSize=26&fontColor=E5383B&fontAlign=50&fontAlignY=50&fontFamily=Fira%20Code" alt="Connect With Me"/></p>
 
 <p align="center">
 Interested in scripting, game modding, or software security?<br/>
