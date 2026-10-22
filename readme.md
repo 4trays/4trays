@@ -59,8 +59,6 @@
 
   <img width="70%" src="https://streak-stats.demolab.com?user=4trays&theme=transparent&hide_border=true&ring=00C853&fire=00C853&currStreakLabel=00C853&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Contribution Streak"/></div>
 
-<!-- ======================= CONTRIBUTION GRAPH ======================= --><h2 align="center">Contribution Activity</h2><div align="center">  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4trays&bg_color=0D1117&color=C9D1D9&line=00C853&point=00C853&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph"/></div>---
-
 <!-- ======================= CONNECT ======================= --><h2 align="center">Connect With Me</h2><p align="center">
   Interested in development, scripting, or software security? Explore my projects and feel free to connect.
 </p><div align="center">  <a href="https://github.com/4trays">
