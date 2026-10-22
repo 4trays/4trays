@@ -102,7 +102,7 @@ Feel free to reach out through any of the platforms below.
 <div align="center">
 
 <a href="https://luasecurecode.vercel.app"><img src="https://img.shields.io/badge/Website-SecureCode-C1121F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
-<a href="https://dsc.gg/lazycatstudio"><img src="https://img.shields.io/badge/Discord-LazyCat_Studio-7A0000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="https://dsc.gg/lazycatstudio"><img src="https://img.shields.io/badge/Discord-LazyCat_Studios-7A0000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 <a href="https://www.instagram.com/ucantbenicee"><img src="https://img.shields.io/badge/Instagram-ucantbenicee-9D0208?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://github.com/4trays"><img src="https://img.shields.io/badge/GitHub-4trays-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
