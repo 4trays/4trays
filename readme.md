@@ -16,9 +16,11 @@ Welcome to my GitHub profile! who loves exploring new technologies and building 
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools:** Git, VSCode, Zed, ACode
 
-### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" /> &nbsp; Just Random Activity
 
-<img src="https://raw.githubusercontent.com/kimmyxpow/kimmyxpow/output/snake.svg" alt="Snake animation" />
+## Most Used Languages
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=4trays&layout=compact&theme=transparent)
+
 
 
 ## GitHub Statistics
